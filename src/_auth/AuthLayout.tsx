@@ -12,7 +12,7 @@ const AuthLayout = () => {
     <Outlet/>
     </section>
     <img 
-    src="../../public/assets/anyone-have-a-high-quality-image-of-the-nahida-birthday-v0-8ij1k4onknzd1.webp"
+    src="/assets/Images/anyone-have-a-high-quality-image-of-the-nahida-birthday-v0-8ij1k4onknzd1.webp "
     alt="logo"
     className="hidden xl:block h-screen w-1/2 object-cover bg-no-repeat "/>
     
